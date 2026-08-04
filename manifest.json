@@ -1,6 +1,6 @@
 {
   "id": "com.aaprod.topfrench",
-  "version": "3.0.0",
+  "version": "3.2.0",
   "name": "Top French",
   "description": "Top-rated French movies and series from 1990 onward, plus popular shows broadcast in French youth programming on terrestrial channels 1–6 during the 1990s.",
   "resources": [
@@ -14,12 +14,12 @@
     {
       "type": "movie",
       "id": "top-french-movies",
-      "name": "Top French"
+      "name": "Top French Movies"
     },
     {
       "type": "series",
       "id": "top-french-series",
-      "name": "Top French"
+      "name": "Top French Series"
     },
     {
       "type": "series",
