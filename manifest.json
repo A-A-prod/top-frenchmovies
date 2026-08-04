@@ -1,0 +1,22 @@
+{
+  "id": "com.aaprod.top100frenchmovies",
+  "version": "1.0.0",
+  "name": "Top French Movies",
+  "description": "100 top-rated French-led movies, selected from the AlloCiné spectator ranking.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "top-french-movies",
+      "name": "Top French Movies"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
+}
