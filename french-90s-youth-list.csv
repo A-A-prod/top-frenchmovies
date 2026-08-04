@@ -2,106 +2,106 @@ display_order,imdb_id,title
 1,tt0214341,Dragon Ball Z
 2,tt0096591,"Nadia, le secret de l'eau bleue"
 3,tt0105935,Aladdin
-4,tt0115378,Superman: The Animated Series
-5,tt0168366,Pokémon
-6,tt0103359,Batman: The Animated Series
-7,tt0112175,Spider-Man
-8,tt0103584,X-Men
-9,tt0101188,Les Razmoket
-10,tt0101084,Doug
-11,tt0106064,Power Rangers
-12,tt0115200,Hé Arnold !
-13,tt0105941,Animaniacs
-14,tt0112123,Minus et Cortex
-15,tt0108783,"Gargoyles, les anges de la nuit"
-16,tt0092345,La Bande à Picsou
-17,tt0096557,"Tic et Tac, les rangers du risque"
-18,tt0101076,Myster Mask
-19,tt0098924,Super Baloo
-20,tt0103428,La Bande à Dingo
-21,tt0138967,Hercule
-22,tt0112197,Timon et Pumbaa
-23,tt0126170,La Cour de récré
-24,tt0088509,Dragon Ball
-25,tt0103369,Sailor Moon
-26,tt0161952,Les Chevaliers du Zodiaque
-27,tt0096686,Ranma ½
-28,tt0159208,Nicky Larson
-29,tt0131179,Détective Conan
-30,tt0294023,Olive et Tom
-31,tt0091211,Ken le Survivant
-32,tt0179552,Les Aventures de Tintin
-33,tt0085033,Inspecteur Gadget
-34,tt0094469,Garfield et ses amis
-35,tt0106140,Sonic
-36,tt0222518,Les Aventures de Sonic
-37,tt0230804,Sonic le Rebelle
-38,tt0096707,The Super Mario Bros. Super Show!
-39,tt0108847,Le Bus magique
-40,tt0169414,Arthur
-41,tt0098929,Les Tiny Toons
-42,tt0053488,The Bugs Bunny Show
-43,tt0282315,Tom et Jerry
-44,tt0063950,"Scooby-Doo, où es-tu ?"
-45,tt0090506,SOS Fantômes
-46,tt0121932,Extreme Ghostbusters
-47,tt0112064,The Mask
-48,tt0096543,Beetlejuice
-49,tt0111970,Freakazoid!
-50,tt0111948,Earthworm Jim
-51,tt0147752,Biker Mice from Mars
-52,tt0131190,Ulysse 31
-53,tt0122356,Les Mystérieuses Cités d'or
-54,tt0264244,Il était une fois... l'Homme
-55,tt0284735,Il était une fois... la Vie
-56,tt0081933,Les Schtroumpfs
-57,tt0156200,Babar
-58,tt0074028,Maya l'abeille
-59,tt0283721,David le gnome
-60,tt0088500,Comte Mordicus
-61,tt0098763,Capitaine Planète
-62,tt0190178,"Denver, le dernier dinosaure"
-63,tt0213377,Widget
-64,tt0085011,Le Sourire du dragon
-65,tt0315429,Conan l'Aventurier
-66,tt0100366,Pingu
-67,tt0286336,Les Animaux du Bois de Quat'sous
-68,tt0203254,Franklin
-69,tt0136658,Couacs en vrac
-70,tt0115269,Mighty Ducks
-71,tt0213334,Bonkers
-72,tt0088528,Les Gummi
-73,tt0108921,Le Monde secret d'Alex Mack
-74,tt0112174,Les Maîtres des sortilèges
-75,tt0103529,Les Twist
-76,tt0103352,Fais-moi peur !
-77,tt0111987,Chair de poule
-78,tt0096694,Sauvés par le gong
-79,tt0098888,Parker Lewis ne perd jamais
-80,tt0105958,Incorrigible Cory
-81,tt0115341,"Sabrina, l'apprentie sorcière"
-82,tt0092359,La Fête à la maison
-83,tt0098800,Le Prince de Bel-Air
-84,tt0101205,Notre belle famille
-85,tt0096579,La Vie de famille
-86,tt0101050,Blossom
-87,tt0090390,Alf
-88,tt0086787,Punky Brewster
-89,tt0077003,Arnold et Willy
-90,tt0350395,C'est pas sorcier
-91,tt0213363,Oggy et les Cafards
-92,tt0118343,Les Zinzins de l'espace
-93,tt1176258,Albert le cinquième mousquetaire
-94,tt0416401,Papyrus
-95,tt0122836,Spirou
-96,tt0213376,Où est Charlie ?
-97,tt0185066,Galaxy Express 999
-98,tt0196288,Salut les Musclés
-99,tt0172009,Hélène et les garçons
-100,tt0172040,Premiers Baisers
-101,tt0172026,Le Miel et les Abeilles
-102,tt0170934,Les Filles d'à côté
-103,tt0364878,Sophie et Virginie
-104,tt0296416,Blanche-Neige
+4,tt0168366,Pokémon
+5,tt0103359,Batman: The Animated Series
+6,tt0112175,Spider-Man
+7,tt0103584,X-Men
+8,tt0101188,Les Razmoket
+9,tt0101084,Doug
+10,tt0106064,Power Rangers
+11,tt0115200,Hé Arnold !
+12,tt0105941,Animaniacs
+13,tt0112123,Minus et Cortex
+14,tt0108783,"Gargoyles, les anges de la nuit"
+15,tt0092345,La Bande à Picsou
+16,tt0096557,"Tic et Tac, les rangers du risque"
+17,tt0101076,Myster Mask
+18,tt0098924,Super Baloo
+19,tt0103428,La Bande à Dingo
+20,tt0138967,Hercule
+21,tt0112197,Timon et Pumbaa
+22,tt0126170,La Cour de récré
+23,tt0088509,Dragon Ball
+24,tt0103369,Sailor Moon
+25,tt0161952,Les Chevaliers du Zodiaque
+26,tt0096686,Ranma ½
+27,tt0159208,Nicky Larson
+28,tt0131179,Détective Conan
+29,tt0294023,Olive et Tom
+30,tt0091211,Ken le Survivant
+31,tt0179552,Les Aventures de Tintin
+32,tt0085033,Inspecteur Gadget
+33,tt0094469,Garfield et ses amis
+34,tt0106140,Sonic
+35,tt0222518,Les Aventures de Sonic
+36,tt0230804,Sonic le Rebelle
+37,tt0096707,The Super Mario Bros. Super Show!
+38,tt0108847,Le Bus magique
+39,tt0169414,Arthur
+40,tt0098929,Les Tiny Toons
+41,tt0053488,The Bugs Bunny Show
+42,tt0282315,Tom et Jerry
+43,tt0063950,"Scooby-Doo, où es-tu ?"
+44,tt0090506,SOS Fantômes
+45,tt0121932,Extreme Ghostbusters
+46,tt0112064,The Mask
+47,tt0096543,Beetlejuice
+48,tt0111970,Freakazoid!
+49,tt0111948,Earthworm Jim
+50,tt0147752,Biker Mice from Mars
+51,tt0131190,Ulysse 31
+52,tt0122356,Les Mystérieuses Cités d'or
+53,tt0264244,Il était une fois... l'Homme
+54,tt0284735,Il était une fois... la Vie
+55,tt0081933,Les Schtroumpfs
+56,tt0156200,Babar
+57,tt0074028,Maya l'abeille
+58,tt0283721,David le gnome
+59,tt0088500,Comte Mordicus
+60,tt0098763,Capitaine Planète
+61,tt0190178,"Denver, le dernier dinosaure"
+62,tt0213377,Widget
+63,tt0085011,Le Sourire du dragon
+64,tt0315429,Conan l'Aventurier
+65,tt0100366,Pingu
+66,tt0286336,Les Animaux du Bois de Quat'sous
+67,tt0203254,Franklin
+68,tt0136658,Couacs en vrac
+69,tt0115269,Mighty Ducks
+70,tt0213334,Bonkers
+71,tt0088528,Les Gummi
+72,tt0108921,Le Monde secret d'Alex Mack
+73,tt0112174,Les Maîtres des sortilèges
+74,tt0103529,Les Twist
+75,tt0103352,Fais-moi peur !
+76,tt0111987,Chair de poule
+77,tt0096694,Sauvés par le gong
+78,tt0098888,Parker Lewis ne perd jamais
+79,tt0105958,Incorrigible Cory
+80,tt0115341,"Sabrina, l'apprentie sorcière"
+81,tt0092359,La Fête à la maison
+82,tt0098800,Le Prince de Bel-Air
+83,tt0101205,Notre belle famille
+84,tt0096579,La Vie de famille
+85,tt0101050,Blossom
+86,tt0090390,Alf
+87,tt0086787,Punky Brewster
+88,tt0077003,Arnold et Willy
+89,tt0350395,C'est pas sorcier
+90,tt0213363,Oggy et les Cafards
+91,tt0118343,Les Zinzins de l'espace
+92,tt1176258,Albert le cinquième mousquetaire
+93,tt0416401,Papyrus
+94,tt0122836,Spirou
+95,tt0213376,Où est Charlie ?
+96,tt0185066,Galaxy Express 999
+97,tt0196288,Salut les Musclés
+98,tt0172009,Hélène et les garçons
+99,tt0172040,Premiers Baisers
+100,tt0172026,Le Miel et les Abeilles
+101,tt0170934,Les Filles d'à côté
+102,tt0364878,Sophie et Virginie
+103,tt0296416,Blanche-Neige
+104,tt0115378,Superman: The Animated Series
 105,tt1194638,Pif et Hercule
 106,tt0101081,Dinosaures
