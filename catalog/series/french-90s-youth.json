@@ -319,34 +319,10 @@
       "poster": "https://image.tmdb.org/t/p/w500/gBnbkQ7t6Ctri0A4nKDYWqIVF3f.jpg"
     },
     {
-      "id": "tt0086817",
-      "type": "series",
-      "name": "Transformers",
-      "poster": "https://image.tmdb.org/t/p/w500/nG11nGI8Ku0eBIexviXQlFaitlv.jpg"
-    },
-    {
-      "id": "tt0088631",
-      "type": "series",
-      "name": "Cosmocats",
-      "poster": "https://image.tmdb.org/t/p/w500/uuPfodh2BF2oeDAAmzMRnJwR28x.jpg"
-    },
-    {
-      "id": "tt0088563",
-      "type": "series",
-      "name": "M.A.S.K.",
-      "poster": "https://image.tmdb.org/t/p/w500/6WLafCM3KYKS8t7rAaBtj6VO61g.jpg"
-    },
-    {
       "id": "tt0086719",
       "type": "series",
       "name": "G.I. Joe",
       "poster": "https://images.metahub.space/poster/medium/tt0086719/img"
-    },
-    {
-      "id": "tt0088571",
-      "type": "series",
-      "name": "Jayce et les Conquérants de la lumière",
-      "poster": "https://images.metahub.space/poster/medium/tt0088571/img"
     },
     {
       "id": "tt0131190",
@@ -451,28 +427,10 @@
       "poster": "https://image.tmdb.org/t/p/w500/nk7rHpJ3BDWR3tirkH70pU6YHwI.jpg"
     },
     {
-      "id": "tt0155441",
-      "type": "series",
-      "name": "Rupert",
-      "poster": "https://images.metahub.space/poster/medium/tt0155441/img"
-    },
-    {
       "id": "tt0203254",
       "type": "series",
       "name": "Franklin",
       "poster": "https://image.tmdb.org/t/p/w500/nDX4ixbQUTpjC8veCVZHd9lWkwC.jpg"
-    },
-    {
-      "id": "tt0108845",
-      "type": "series",
-      "name": "Madeline",
-      "poster": "https://images.metahub.space/poster/medium/tt0108845/img"
-    },
-    {
-      "id": "tt0127471",
-      "type": "series",
-      "name": "Le Monde irrésistible de Richard Scarry",
-      "poster": "https://images.metahub.space/poster/medium/tt0127471/img"
     },
     {
       "id": "tt0086815",
@@ -496,7 +454,7 @@
       "id": "tt0115269",
       "type": "series",
       "name": "Mighty Ducks",
-      "poster": "https://image.tmdb.org/t/p/w500/y1sLHsOJS3Q7KS3PCHcHGTgBDPB.jpg"
+      "poster": "https://images.metahub.space/poster/medium/tt0115269/img"
     },
     {
       "id": "tt0213334",
@@ -652,7 +610,7 @@
       "id": "tt0213376",
       "type": "series",
       "name": "Où est Charlie ?",
-      "poster": "https://image.tmdb.org/t/p/w500/cmE8xt1GWI4ySqyRE4j4CIw6WXm.jpg"
+      "poster": "https://images.metahub.space/poster/medium/tt0213376/img"
     },
     {
       "id": "tt0185066",
@@ -689,6 +647,42 @@
       "type": "series",
       "name": "Les Filles d'à côté",
       "poster": "https://image.tmdb.org/t/p/w500/p4ptP8oyUBu69gA34sCuUyz4QgE.jpg"
+    },
+    {
+      "id": "tt0149512",
+      "type": "series",
+      "name": "Sophie et Virginie",
+      "poster": "https://images.metahub.space/poster/medium/tt0149512/img"
+    },
+    {
+      "id": "tt0185117",
+      "type": "series",
+      "name": "Blanche-Neige",
+      "poster": "https://images.metahub.space/poster/medium/tt0185117/img"
+    },
+    {
+      "id": "tt0115374",
+      "type": "series",
+      "name": "Superman",
+      "poster": "https://image.tmdb.org/t/p/w500/itLEkaehTqhOFpHxztllLUgyE7f.jpg"
+    },
+    {
+      "id": "tt0115075",
+      "type": "series",
+      "name": "Aladdin",
+      "poster": "https://images.metahub.space/poster/medium/tt0115075/img"
+    },
+    {
+      "id": "tt0368510",
+      "type": "series",
+      "name": "Pif et Hercule",
+      "poster": "https://images.metahub.space/poster/medium/tt0368510/img"
+    },
+    {
+      "id": "tt0101081",
+      "type": "series",
+      "name": "Dinosaures",
+      "poster": "https://image.tmdb.org/t/p/w500/gwJ2oRqfHlaXJqG0K9Il9xAJw1z.jpg"
     }
   ]
 }
