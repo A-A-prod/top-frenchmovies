@@ -1,0 +1,736 @@
+{
+  "metas": [
+    {
+      "id": "tt0168366",
+      "type": "series",
+      "name": "Pokémon",
+      "poster": "https://image.tmdb.org/t/p/w500/HPoy0TYWdHLQ0TNXlKAdlSB6q.jpg"
+    },
+    {
+      "id": "tt0214341",
+      "type": "series",
+      "name": "Dragon Ball Z",
+      "poster": "https://images.metahub.space/poster/medium/tt0214341/img"
+    },
+    {
+      "id": "tt0103359",
+      "type": "series",
+      "name": "Batman: The Animated Series",
+      "poster": "https://image.tmdb.org/t/p/w500/bzeuZHxk0lSPafsgNiwENmI26zt.jpg"
+    },
+    {
+      "id": "tt0112175",
+      "type": "series",
+      "name": "Spider-Man",
+      "poster": "https://image.tmdb.org/t/p/w500/nh3nyDdLJf1WQN2RG6VK9TTKjhp.jpg"
+    },
+    {
+      "id": "tt0103584",
+      "type": "series",
+      "name": "X-Men",
+      "poster": "https://image.tmdb.org/t/p/w500/wteknpaTdvlsGMZuT9BNyUR6eep.jpg"
+    },
+    {
+      "id": "tt0101188",
+      "type": "series",
+      "name": "Les Razmoket",
+      "poster": "https://image.tmdb.org/t/p/w500/q0awbhkdKpZ5q1aFIQPQjZtKM95.jpg"
+    },
+    {
+      "id": "tt0101084",
+      "type": "series",
+      "name": "Doug",
+      "poster": "https://image.tmdb.org/t/p/w500/9TaCncjvU2OeVlU1mamFSVuuAxp.jpg"
+    },
+    {
+      "id": "tt0106064",
+      "type": "series",
+      "name": "Power Rangers",
+      "poster": "https://image.tmdb.org/t/p/w500/eqkXsz2eQPTEmq5Pcsrh9uQHVMs.jpg"
+    },
+    {
+      "id": "tt0115200",
+      "type": "series",
+      "name": "Hé Arnold !",
+      "poster": "https://image.tmdb.org/t/p/w500/kMKSWSUf3kDujpG3e7vg9nczJHw.jpg"
+    },
+    {
+      "id": "tt0105941",
+      "type": "series",
+      "name": "Animaniacs",
+      "poster": "https://image.tmdb.org/t/p/w500/ePBQBznYviDvQHdms57fpkH8aeP.jpg"
+    },
+    {
+      "id": "tt0112123",
+      "type": "series",
+      "name": "Minus et Cortex",
+      "poster": "https://image.tmdb.org/t/p/w500/jye2anamHZGdHVCxboFW68YMmaG.jpg"
+    },
+    {
+      "id": "tt0108783",
+      "type": "series",
+      "name": "Gargoyles, les anges de la nuit",
+      "poster": "https://image.tmdb.org/t/p/w500/2NnPDxPK2VkfJ6fCoiRknU0mbmy.jpg"
+    },
+    {
+      "id": "tt0092345",
+      "type": "series",
+      "name": "La Bande à Picsou",
+      "poster": "https://image.tmdb.org/t/p/w500/qTqVUWTm5yBZ7ep1F3m01x2pWYg.jpg"
+    },
+    {
+      "id": "tt0096557",
+      "type": "series",
+      "name": "Tic et Tac, les rangers du risque",
+      "poster": "https://image.tmdb.org/t/p/w500/5yVRmclHdS2f7VBXDDUWOxhgUQc.jpg"
+    },
+    {
+      "id": "tt0101076",
+      "type": "series",
+      "name": "Myster Mask",
+      "poster": "https://image.tmdb.org/t/p/w500/url7nrXXnlkEcvx89b3OhjWIqMw.jpg"
+    },
+    {
+      "id": "tt0098924",
+      "type": "series",
+      "name": "Super Baloo",
+      "poster": "https://image.tmdb.org/t/p/w500/rYELKQxGywOR8jrMjQAPfCoBb4y.jpg"
+    },
+    {
+      "id": "tt0103428",
+      "type": "series",
+      "name": "La Bande à Dingo",
+      "poster": "https://image.tmdb.org/t/p/w500/wyEFUwFdIxAqrZUt1LpNgU2Puuk.jpg"
+    },
+    {
+      "id": "tt0138967",
+      "type": "series",
+      "name": "Hercule",
+      "poster": "https://image.tmdb.org/t/p/w500/44GJ8NCo3b0jnRTkVUM1CIb1nbi.jpg"
+    },
+    {
+      "id": "tt0112197",
+      "type": "series",
+      "name": "Timon et Pumbaa",
+      "poster": "https://image.tmdb.org/t/p/w500/q5YyN0dS489j0j75voMAlK7Nk14.jpg"
+    },
+    {
+      "id": "tt0126170",
+      "type": "series",
+      "name": "La Cour de récré",
+      "poster": "https://image.tmdb.org/t/p/w500/wJthL8Pykd6mQ6p60mAcdAwatSE.jpg"
+    },
+    {
+      "id": "tt0088509",
+      "type": "series",
+      "name": "Dragon Ball",
+      "poster": "https://image.tmdb.org/t/p/w500/ea8VZOfwr7wE2851brvk6g2rLlF.jpg"
+    },
+    {
+      "id": "tt0103369",
+      "type": "series",
+      "name": "Sailor Moon",
+      "poster": "https://image.tmdb.org/t/p/w500/q4xNfVPwpNsZlfoNC7gqGzTksb9.jpg"
+    },
+    {
+      "id": "tt0161952",
+      "type": "series",
+      "name": "Les Chevaliers du Zodiaque",
+      "poster": "https://image.tmdb.org/t/p/w500/r86OUhYBtUQ3R7EQL47NOLBEIge.jpg"
+    },
+    {
+      "id": "tt0096686",
+      "type": "series",
+      "name": "Ranma ½",
+      "poster": "https://image.tmdb.org/t/p/w500/rXNar7lh2g8VFgqmiVgMam8oZXn.jpg"
+    },
+    {
+      "id": "tt0159208",
+      "type": "series",
+      "name": "Nicky Larson",
+      "poster": "https://image.tmdb.org/t/p/w500/b0FU3xlr0NK0TjdNwxXW3vmO1m2.jpg"
+    },
+    {
+      "id": "tt0131179",
+      "type": "series",
+      "name": "Détective Conan",
+      "poster": "https://image.tmdb.org/t/p/w500/6bJ6Jq92CxkSPM3esFlwkU7ILgd.jpg"
+    },
+    {
+      "id": "tt0086707",
+      "type": "series",
+      "name": "Olive et Tom",
+      "poster": "https://images.metahub.space/poster/medium/tt0086707/img"
+    },
+    {
+      "id": "tt0091211",
+      "type": "series",
+      "name": "Ken le Survivant",
+      "poster": "https://image.tmdb.org/t/p/w500/mnvcg08ajs73toO8MdwqIAOAwAf.jpg"
+    },
+    {
+      "id": "tt0185133",
+      "type": "series",
+      "name": "Yu Yu Hakusho",
+      "poster": "https://image.tmdb.org/t/p/w500/icRSQHZfP5pRLdXqMHtS7RiwouL.jpg"
+    },
+    {
+      "id": "tt0213338",
+      "type": "series",
+      "name": "Cowboy Bebop",
+      "poster": "https://image.tmdb.org/t/p/w500/qWL3aLHHmfLm90XW5G62z3Wr5JL.jpg"
+    },
+    {
+      "id": "tt0112159",
+      "type": "series",
+      "name": "Neon Genesis Evangelion",
+      "poster": "https://image.tmdb.org/t/p/w500/kfQKPQSAOmFd6vflaElwVeTLay7.jpg"
+    },
+    {
+      "id": "tt0138919",
+      "type": "series",
+      "name": "Vision d'Escaflowne",
+      "poster": "https://image.tmdb.org/t/p/w500/dUlsilF6asI6Eq0GmGkisTANTLB.jpg"
+    },
+    {
+      "id": "tt0179552",
+      "type": "series",
+      "name": "Les Aventures de Tintin",
+      "poster": "https://image.tmdb.org/t/p/w500/btbINudWOKb3LdPdtekP2SKKwPE.jpg"
+    },
+    {
+      "id": "tt0085033",
+      "type": "series",
+      "name": "Inspecteur Gadget",
+      "poster": "https://image.tmdb.org/t/p/w500/nqJffM2KuVDqsml0r4nPbQHTEZ1.jpg"
+    },
+    {
+      "id": "tt0094469",
+      "type": "series",
+      "name": "Garfield et ses amis",
+      "poster": "https://image.tmdb.org/t/p/w500/68EajYbFO1znr4yYcL5Hx68COo2.jpg"
+    },
+    {
+      "id": "tt0106140",
+      "type": "series",
+      "name": "Sonic",
+      "poster": "https://image.tmdb.org/t/p/w500/g0bHQHuF1Hu6yKnVS3fTlQrOVTj.jpg"
+    },
+    {
+      "id": "tt0222518",
+      "type": "series",
+      "name": "Les Aventures de Sonic",
+      "poster": "https://image.tmdb.org/t/p/w500/z24YFviGeEGUgOw4TytKuC4izVM.jpg"
+    },
+    {
+      "id": "tt0230804",
+      "type": "series",
+      "name": "Sonic le Rebelle",
+      "poster": "https://image.tmdb.org/t/p/w500/higBdgaBuFLLofLkNj91omJ6bl1.jpg"
+    },
+    {
+      "id": "tt0096707",
+      "type": "series",
+      "name": "The Super Mario Bros. Super Show!",
+      "poster": "https://image.tmdb.org/t/p/w500/cpryW3g0opmyeiO4b31gQk8Dwal.jpg"
+    },
+    {
+      "id": "tt0096554",
+      "type": "series",
+      "name": "Captain N",
+      "poster": "https://image.tmdb.org/t/p/w500/uvPvl5KAzHoWXSKPsTRP1sHpCo.jpg"
+    },
+    {
+      "id": "tt0108847",
+      "type": "series",
+      "name": "Le Bus magique",
+      "poster": "https://image.tmdb.org/t/p/w500/rmFjpJto1lcwRH4qz2ickF0AJNW.jpg"
+    },
+    {
+      "id": "tt0169414",
+      "type": "series",
+      "name": "Arthur",
+      "poster": "https://image.tmdb.org/t/p/w500/vzmXko1Z8vXEhwxOFCI3w8qfFV4.jpg"
+    },
+    {
+      "id": "tt0098929",
+      "type": "series",
+      "name": "Les Tiny Toons",
+      "poster": "https://image.tmdb.org/t/p/w500/jYcQuKpQlu3k9JmI8nZSkfgCLnX.jpg"
+    },
+    {
+      "id": "tt0043224",
+      "type": "series",
+      "name": "Looney Tunes",
+      "poster": "https://image.tmdb.org/t/p/w500/6e54gnblIDcwDGOGhzPyV0fB6Rw.jpg"
+    },
+    {
+      "id": "tt0047708",
+      "type": "series",
+      "name": "Tom et Jerry",
+      "poster": "https://image.tmdb.org/t/p/w500/jzjMPekDYnHNznpBoMtucDI0Z7Q.jpg"
+    },
+    {
+      "id": "tt0063950",
+      "type": "series",
+      "name": "Scooby-Doo, où es-tu ?",
+      "poster": "https://image.tmdb.org/t/p/w500/osnnZuo2q5BVXXqx2rw9Coc3Nr2.jpg"
+    },
+    {
+      "id": "tt0090506",
+      "type": "series",
+      "name": "SOS Fantômes",
+      "poster": "https://image.tmdb.org/t/p/w500/cm6LBktgPxlMIv6oof5INAi7wDC.jpg"
+    },
+    {
+      "id": "tt0121932",
+      "type": "series",
+      "name": "Extreme Ghostbusters",
+      "poster": "https://image.tmdb.org/t/p/w500/8ydeFrUXbikeOlUy0cJtpjomzLU.jpg"
+    },
+    {
+      "id": "tt0112064",
+      "type": "series",
+      "name": "The Mask",
+      "poster": "https://image.tmdb.org/t/p/w500/8IuTg9XaviDwpfm99IXUUPukrVA.jpg"
+    },
+    {
+      "id": "tt0096543",
+      "type": "series",
+      "name": "Beetlejuice",
+      "poster": "https://image.tmdb.org/t/p/w500/6KZUc5WlukYvlixgNYJaFXzgdkv.jpg"
+    },
+    {
+      "id": "tt0111970",
+      "type": "series",
+      "name": "Freakazoid!",
+      "poster": "https://image.tmdb.org/t/p/w500/ig0pc2AhY5d3GEghcxEWwo9AUtg.jpg"
+    },
+    {
+      "id": "tt0111948",
+      "type": "series",
+      "name": "Earthworm Jim",
+      "poster": "https://image.tmdb.org/t/p/w500/zxZTvRjEjOlRXkIpDXz60cUtow6.jpg"
+    },
+    {
+      "id": "tt0112196",
+      "type": "series",
+      "name": "The Tick",
+      "poster": "https://image.tmdb.org/t/p/w500/rRme2aeGyDwel0e9NSPx9FzIPq9.jpg"
+    },
+    {
+      "id": "tt0108903",
+      "type": "series",
+      "name": "ReBoot",
+      "poster": "https://image.tmdb.org/t/p/w500/tkuQQ2F5updvsyabcYp3UbjcEkp.jpg"
+    },
+    {
+      "id": "tt0115108",
+      "type": "series",
+      "name": "Beast Wars",
+      "poster": "https://image.tmdb.org/t/p/w500/kWwaoXeonbgcstnVVqlUEB0wlDr.jpg"
+    },
+    {
+      "id": "tt0147752",
+      "type": "series",
+      "name": "Biker Mice from Mars",
+      "poster": "https://image.tmdb.org/t/p/w500/gBnbkQ7t6Ctri0A4nKDYWqIVF3f.jpg"
+    },
+    {
+      "id": "tt0140743",
+      "type": "series",
+      "name": "Mighty Max",
+      "poster": "https://image.tmdb.org/t/p/w500/U7hAd7RBPWoxknXDlE0Ryux4gP.jpg"
+    },
+    {
+      "id": "tt0086817",
+      "type": "series",
+      "name": "Transformers",
+      "poster": "https://image.tmdb.org/t/p/w500/nG11nGI8Ku0eBIexviXQlFaitlv.jpg"
+    },
+    {
+      "id": "tt0088631",
+      "type": "series",
+      "name": "Cosmocats",
+      "poster": "https://image.tmdb.org/t/p/w500/uuPfodh2BF2oeDAAmzMRnJwR28x.jpg"
+    },
+    {
+      "id": "tt0088563",
+      "type": "series",
+      "name": "M.A.S.K.",
+      "poster": "https://image.tmdb.org/t/p/w500/6WLafCM3KYKS8t7rAaBtj6VO61g.jpg"
+    },
+    {
+      "id": "tt0086719",
+      "type": "series",
+      "name": "G.I. Joe",
+      "poster": "https://images.metahub.space/poster/medium/tt0086719/img"
+    },
+    {
+      "id": "tt0085031",
+      "type": "series",
+      "name": "Les Maîtres de l'univers",
+      "poster": "https://image.tmdb.org/t/p/w500/VDKO97xqSKlZmXQ74D8pfAn9OP.jpg"
+    },
+    {
+      "id": "tt0088571",
+      "type": "series",
+      "name": "Jayce et les Conquérants de la lumière",
+      "poster": "https://image.tmdb.org/t/p/w500/67p6ElNiQNw7olnb4L4p5E6Gjl9.jpg"
+    },
+    {
+      "id": "tt0131190",
+      "type": "series",
+      "name": "Ulysse 31",
+      "poster": "https://image.tmdb.org/t/p/w500/11BQZIJCliDSGMqV9opAJLbeAaV.jpg"
+    },
+    {
+      "id": "tt0122356",
+      "type": "series",
+      "name": "Les Mystérieuses Cités d'or",
+      "poster": "https://image.tmdb.org/t/p/w500/tyICEhRpHQogfKf5XA2TAvAzyzS.jpg"
+    },
+    {
+      "id": "tt0264244",
+      "type": "series",
+      "name": "Il était une fois... l'Homme",
+      "poster": "https://image.tmdb.org/t/p/w500/fKkTAf7zYtTdzGMvSyQKlMW8VZX.jpg"
+    },
+    {
+      "id": "tt0284735",
+      "type": "series",
+      "name": "Il était une fois... la Vie",
+      "poster": "https://image.tmdb.org/t/p/w500/aH2Cn9sEAx8bPRIHlPVFZHh6uGm.jpg"
+    },
+    {
+      "id": "tt0081933",
+      "type": "series",
+      "name": "Les Schtroumpfs",
+      "poster": "https://image.tmdb.org/t/p/w500/lJNHoPkjjAnmGwoctPDM5wG2W7l.jpg"
+    },
+    {
+      "id": "tt0156200",
+      "type": "series",
+      "name": "Babar",
+      "poster": "https://image.tmdb.org/t/p/w500/2c1O1SHWi7rGS6qWSM41yomDGzm.jpg"
+    },
+    {
+      "id": "tt0074028",
+      "type": "series",
+      "name": "Maya l'abeille",
+      "poster": "https://image.tmdb.org/t/p/w500/jZiF44BtftnaHUUwT1VOCQPriOC.jpg"
+    },
+    {
+      "id": "tt0283721",
+      "type": "series",
+      "name": "David le gnome",
+      "poster": "https://image.tmdb.org/t/p/w500/1G2a471w3PyrVE3OEVyXYP93ge6.jpg"
+    },
+    {
+      "id": "tt0088500",
+      "type": "series",
+      "name": "Comte Mordicus",
+      "poster": "https://image.tmdb.org/t/p/w500/o5iNyPIceqLWwg13h8XqO8xth4K.jpg"
+    },
+    {
+      "id": "tt0081848",
+      "type": "series",
+      "name": "Danger Mouse",
+      "poster": "https://image.tmdb.org/t/p/w500/d2t8jcMtw5STtF2T5roe9D6xC3K.jpg"
+    },
+    {
+      "id": "tt0088591",
+      "type": "series",
+      "name": "Les Ratons laveurs",
+      "poster": "https://image.tmdb.org/t/p/w500/14YT7myTEFm3rhN3NYooevKgMjI.jpg"
+    },
+    {
+      "id": "tt0098763",
+      "type": "series",
+      "name": "Capitaine Planète",
+      "poster": "https://image.tmdb.org/t/p/w500/gybSxsJR1VuthkCFXVPBQfvnRX.jpg"
+    },
+    {
+      "id": "tt0190178",
+      "type": "series",
+      "name": "Denver, le dernier dinosaure",
+      "poster": "https://image.tmdb.org/t/p/w500/acttb8i842CPmf0x0wUtZVKajVH.jpg"
+    },
+    {
+      "id": "tt0101223",
+      "type": "series",
+      "name": "Widget",
+      "poster": "https://image.tmdb.org/t/p/w500/iJN1EczX0FiLy0H6JaWxbF1J7Uo.jpg"
+    },
+    {
+      "id": "tt0085011",
+      "type": "series",
+      "name": "Le Sourire du dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/FAXtVRWrjLeMWkFq8t6vuvjV39.jpg"
+    },
+    {
+      "id": "tt0124937",
+      "type": "series",
+      "name": "Conan l'Aventurier",
+      "poster": "https://image.tmdb.org/t/p/w500/3YthqlEcG2RlI9mJIcONpbyxvXL.jpg"
+    },
+    {
+      "id": "tt0100366",
+      "type": "series",
+      "name": "Pingu",
+      "poster": "https://image.tmdb.org/t/p/w500/xw0kevFRJW0UEm4cDBK9IaU6an2.jpg"
+    },
+    {
+      "id": "tt0286336",
+      "type": "series",
+      "name": "Les Animaux du Bois de Quat'sous",
+      "poster": "https://image.tmdb.org/t/p/w500/nk7rHpJ3BDWR3tirkH70pU6YHwI.jpg"
+    },
+    {
+      "id": "tt0155441",
+      "type": "series",
+      "name": "Rupert",
+      "poster": "https://images.metahub.space/poster/medium/tt0155441/img"
+    },
+    {
+      "id": "tt0203254",
+      "type": "series",
+      "name": "Franklin",
+      "poster": "https://image.tmdb.org/t/p/w500/nDX4ixbQUTpjC8veCVZHd9lWkwC.jpg"
+    },
+    {
+      "id": "tt0108845",
+      "type": "series",
+      "name": "Madeline",
+      "poster": "https://image.tmdb.org/t/p/w500/zsngZlWNXgkQZRXsVKs7MFNOXUm.jpg"
+    },
+    {
+      "id": "tt0127471",
+      "type": "series",
+      "name": "Le Monde irrésistible de Richard Scarry",
+      "poster": "https://image.tmdb.org/t/p/w500/l3yuHVJICqFE4cujcOvWtYMYpPJ.jpg"
+    },
+    {
+      "id": "tt0142055",
+      "type": "series",
+      "name": "Les Télétubbies",
+      "poster": "https://image.tmdb.org/t/p/w500/8NBg1aDrAYmKMk2PzYeUOnAsIev.jpg"
+    },
+    {
+      "id": "tt0086815",
+      "type": "series",
+      "name": "Thomas et ses amis",
+      "poster": "https://image.tmdb.org/t/p/w500/9aMgL5hZA4ey0oDAGwesrY7ycj7.jpg"
+    },
+    {
+      "id": "tt0088580",
+      "type": "series",
+      "name": "Postman Pat",
+      "poster": "https://image.tmdb.org/t/p/w500/oV5mS2DFDMTh6IGtrUoiUWnQ66l.jpg"
+    },
+    {
+      "id": "tt0329829",
+      "type": "series",
+      "name": "Sam le pompier",
+      "poster": "https://image.tmdb.org/t/p/w500/u1TYBNWOhzpyuSEJoaTN6WkAs1m.jpg"
+    },
+    {
+      "id": "tt0286342",
+      "type": "series",
+      "name": "Bananas in Pyjamas",
+      "poster": "https://image.tmdb.org/t/p/w500/opUFH6kWzgepKX7kkboYH9EUiP7.jpg"
+    },
+    {
+      "id": "tt0173664",
+      "type": "series",
+      "name": "Bear in the Big Blue House",
+      "poster": "https://image.tmdb.org/t/p/w500/hww73tErgeSOQ6YlcKjey0smc8s.jpg"
+    },
+    {
+      "id": "tt0118291",
+      "type": "series",
+      "name": "Les 101 Dalmatiens, la série",
+      "poster": "https://images.metahub.space/poster/medium/tt0118291/img"
+    },
+    {
+      "id": "tt0126168",
+      "type": "series",
+      "name": "Pepper Ann",
+      "poster": "https://image.tmdb.org/t/p/w500/9KAPETuGQmuOI17h5rYWeABAICv.jpg"
+    },
+    {
+      "id": "tt0118292",
+      "type": "series",
+      "name": "Couacs en vrac",
+      "poster": "https://image.tmdb.org/t/p/w500/cKtwBO9NcxTAcmERLPso3OXQBQC.jpg"
+    },
+    {
+      "id": "tt0115269",
+      "type": "series",
+      "name": "Mighty Ducks",
+      "poster": "https://image.tmdb.org/t/p/w500/y1sLHsOJS3Q7KS3PCHcHGTgBDPB.jpg"
+    },
+    {
+      "id": "tt0213334",
+      "type": "series",
+      "name": "Bonkers",
+      "poster": "https://image.tmdb.org/t/p/w500/eZW4rWFY356fBAGNG9SrsyU6WMH.jpg"
+    },
+    {
+      "id": "tt0088528",
+      "type": "series",
+      "name": "Les Gummi",
+      "poster": "https://image.tmdb.org/t/p/w500/4YKFUj4xGXckNFxspBCnL9PO2df.jpg"
+    },
+    {
+      "id": "tt0108921",
+      "type": "series",
+      "name": "Le Monde secret d'Alex Mack",
+      "poster": "https://image.tmdb.org/t/p/w500/hsUkkuHHqiAz12FmIsYu9IqWiuf.jpg"
+    },
+    {
+      "id": "tt0108885",
+      "type": "series",
+      "name": "Océane",
+      "poster": "https://image.tmdb.org/t/p/w500/d5QZqkMHlwaUFGNZkHaZiSZXeOd.jpg"
+    },
+    {
+      "id": "tt0112174",
+      "type": "series",
+      "name": "Les Maîtres des sortilèges",
+      "poster": "https://image.tmdb.org/t/p/w500/loc9hb3ybciLZNmDzvWMJSFmJ0E.jpg"
+    },
+    {
+      "id": "tt0103529",
+      "type": "series",
+      "name": "Les Twist",
+      "poster": "https://image.tmdb.org/t/p/w500/nxOScaEU2exYLBkqG8LiYL69z5l.jpg"
+    },
+    {
+      "id": "tt0103352",
+      "type": "series",
+      "name": "Fais-moi peur !",
+      "poster": "https://image.tmdb.org/t/p/w500/hzWtZghj8aFhd0qr7U4ICCHgNwz.jpg"
+    },
+    {
+      "id": "tt0111987",
+      "type": "series",
+      "name": "Chair de poule",
+      "poster": "https://image.tmdb.org/t/p/w500/8qFT3SEQo14hV1AyCcmQMnrAqzh.jpg"
+    },
+    {
+      "id": "tt0096694",
+      "type": "series",
+      "name": "Sauvés par le gong",
+      "poster": "https://image.tmdb.org/t/p/w500/hMPTliuR22DR4MXXNbaK2gt1n7r.jpg"
+    },
+    {
+      "id": "tt0098888",
+      "type": "series",
+      "name": "Parker Lewis ne perd jamais",
+      "poster": "https://image.tmdb.org/t/p/w500/ePUaOFCJHgcR1WpATa3S6elzjX3.jpg"
+    },
+    {
+      "id": "tt0105958",
+      "type": "series",
+      "name": "Incorrigible Cory",
+      "poster": "https://image.tmdb.org/t/p/w500/l6zHtT4n2Cbxx9vyotK5aIqNKEe.jpg"
+    },
+    {
+      "id": "tt0115341",
+      "type": "series",
+      "name": "Sabrina, l'apprentie sorcière",
+      "poster": "https://image.tmdb.org/t/p/w500/lJSnXeLh4ud49YuoVoSJR4mWeCG.jpg"
+    },
+    {
+      "id": "tt0092359",
+      "type": "series",
+      "name": "La Fête à la maison",
+      "poster": "https://image.tmdb.org/t/p/w500/sqpU24rQixN62RymZx8kRffLk9Q.jpg"
+    },
+    {
+      "id": "tt0098800",
+      "type": "series",
+      "name": "Le Prince de Bel-Air",
+      "poster": "https://image.tmdb.org/t/p/w500/ppi9yoM9BlNhoYg0h3XCyrnG4lR.jpg"
+    },
+    {
+      "id": "tt0101205",
+      "type": "series",
+      "name": "Notre belle famille",
+      "poster": "https://image.tmdb.org/t/p/w500/6v28oDhJBICuyoL7LDyCQkICHhl.jpg"
+    },
+    {
+      "id": "tt0096579",
+      "type": "series",
+      "name": "La Vie de famille",
+      "poster": "https://image.tmdb.org/t/p/w500/aEtCPyOXGLodQrmlOGs1DelYCs3.jpg"
+    },
+    {
+      "id": "tt0101050",
+      "type": "series",
+      "name": "Blossom",
+      "poster": "https://image.tmdb.org/t/p/w500/qZVQ73nf4N43LLvKzs0cSkXRne5.jpg"
+    },
+    {
+      "id": "tt0090390",
+      "type": "series",
+      "name": "Alf",
+      "poster": "https://image.tmdb.org/t/p/w500/r3ZuhyyXHdjdn56S2ZvpquiKtq5.jpg"
+    },
+    {
+      "id": "tt0086787",
+      "type": "series",
+      "name": "Punky Brewster",
+      "poster": "https://image.tmdb.org/t/p/w500/oD7Gbs60HELF0PRYQB491iJ4I3Q.jpg"
+    },
+    {
+      "id": "tt0077003",
+      "type": "series",
+      "name": "Arnold et Willy",
+      "poster": "https://image.tmdb.org/t/p/w500/rRKwM7fGWREc4l2QZGagg3FuVR9.jpg"
+    },
+    {
+      "id": "tt0283711",
+      "type": "series",
+      "name": "C'est pas sorcier",
+      "poster": "https://images.metahub.space/poster/medium/tt0283711/img"
+    },
+    {
+      "id": "tt0213363",
+      "type": "series",
+      "name": "Oggy et les Cafards",
+      "poster": "https://image.tmdb.org/t/p/w500/mA2apmkA0GZiPxBWDNjhVZb8SOE.jpg"
+    },
+    {
+      "id": "tt0118343",
+      "type": "series",
+      "name": "Les Zinzins de l'espace",
+      "poster": "https://image.tmdb.org/t/p/w500/9qShvePeePP86huMzMxyRyoKPwm.jpg"
+    },
+    {
+      "id": "tt0101030",
+      "type": "series",
+      "name": "Albert le cinquième mousquetaire",
+      "poster": "https://images.metahub.space/poster/medium/tt0101030/img"
+    },
+    {
+      "id": "tt0281485",
+      "type": "series",
+      "name": "Papyrus",
+      "poster": "https://image.tmdb.org/t/p/w500/uKbiZgHaRTWrG89J9mdYBYYGM1N.jpg"
+    },
+    {
+      "id": "tt0280247",
+      "type": "series",
+      "name": "Bob Morane",
+      "poster": "https://image.tmdb.org/t/p/w500/28ph8c4B1CXQznlSkNkLmSvsJCB.jpg"
+    },
+    {
+      "id": "tt0165052",
+      "type": "series",
+      "name": "Spirou",
+      "poster": "https://image.tmdb.org/t/p/w500/f8uiEiUW3om2lK5oqdpARkBxFxL.jpg"
+    }
+  ]
+}
