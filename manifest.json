@@ -1,8 +1,8 @@
 {
   "id": "com.aaprod.topfrench",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "name": "Top French",
-  "description": "Top-rated French movies and series released from 1990 onward, selected from AlloCiné spectator rankings.",
+  "description": "Top-rated French movies and series from 1990 onward, plus popular shows broadcast in French youth programming on terrestrial channels 1–6 during the 1990s.",
   "resources": [
     "catalog"
   ],
@@ -20,6 +20,11 @@
       "type": "series",
       "id": "top-french-series",
       "name": "Top French"
+    },
+    {
+      "type": "series",
+      "id": "french-90s-youth",
+      "name": "French 90s Youth"
     }
   ],
   "idPrefixes": [
